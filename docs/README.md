@@ -4,7 +4,7 @@
 This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.
 
 - **Project Preview**
-<img src='imgs/image.png' alt='Preview'>
+<center><img src='imgs/image.png' alt='Preview'></center>
 
 ### Tools 🛠️
 - [Python](python.org)
