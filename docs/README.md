@@ -1,12 +1,19 @@
-# Email Sender
+<div  style="display: flex;justify-content: center;">
+<img src='imgs/arr.png' alt='Preview' width=50>
+&nbsp;
+<span style="text-align: center;font-size: 30px;font-weight: 600;">Email Sender</span>
+</div>
+<hr>
 
-### About 📙
+## About 📙
 This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.
 
-- **Project Preview**
-<center><img src='imgs/image.png' alt='Preview'></center>
+### **Project Preview**
+<div  style="display: flex;justify-content: center;">
+<img src='imgs/image.png' alt='Preview' width=200>
+</div>
 
-### Tools 🛠️
+## Tools 🛠️
 - [Python](python.org)
 - smtp
 - python-decouple
@@ -15,10 +22,10 @@ This app was develompted with goal of automatizate some email messages(google em
 - threading
 - os
 
-### How to run?
+## How to run?
 ```bash
     # In your git bash, clone the repo.
-    git clone https://github.com/angelo-francisco/EmailSender.git
+    git clone https://github.com/angelo-francisco/Email-Sender.git
 
     # Activate the enviroment
     # att.: can be different on another OS
@@ -27,7 +34,7 @@ This app was develompted with goal of automatizate some email messages(google em
     # run the project
     python ./src/main.py
 ```
-### License 🔑
+## License 🔑
 
 The license of the project is [MIT](https://opensource.org/license/mit)
 
