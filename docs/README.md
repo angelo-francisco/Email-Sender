@@ -31,3 +31,6 @@ This app was develompted with goal of automatizate some email messages(google em
 ### License 🔑
 
 The license of the project is [MIT](https://opensource.org/license/mit)
+
+<hr>
+Made by Ângelo Francisco 🖖.
