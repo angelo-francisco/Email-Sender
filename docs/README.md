@@ -3,18 +3,17 @@
 ### About 📙
 This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.
 
-**Project Preview**
+- **Project Preview**
 <img src='imgs/image.png' alt='Preview'>
 
 ### Tools 🛠️
-- Python
-- Libraries:
-    - smtp
-    - python-decouple
-    - customtkinter
-    - tkinter
-    - threading
-    - os
+- [Python](python.org)
+- smtp
+- python-decouple
+- customtkinter
+- tkinter
+- threading
+- os
 
 ### How to run?
 ```bash
