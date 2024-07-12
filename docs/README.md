@@ -7,7 +7,7 @@
 <p align="center">This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.</p>
 
 ### **Project Preview**
-<div  style="display: flex;justify-content: center;">
+<div align="center">
 <img src='imgs/image.png' alt='Preview' width=200>
 </div>
 
