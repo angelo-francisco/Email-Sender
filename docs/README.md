@@ -1,8 +1,9 @@
-<div align="center">
+<div  style="display: flex;justify-content: center;">
 <img src='imgs/arr.png' alt='Preview' width=50>
 &nbsp;
-<h1>Email Sender</h1>
+<span style="text-align: center;font-size: 30px;font-weight: 600;">Email Sender</span>
 </div>
+<hr>
 
 <p align="center">This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.</p>
 
