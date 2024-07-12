@@ -1,12 +1,10 @@
-<div  style="display: flex;justify-content: center;">
+<div align="center">
 <img src='imgs/arr.png' alt='Preview' width=50>
 &nbsp;
-<span style="text-align: center;font-size: 30px;font-weight: 600;">Email Sender</span>
+<h1>Email Sender</h1>
 </div>
-<hr>
 
-## About 📙
-This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.
+<p align="center">This app was develompted with goal of automatizate some email messages(google email -> gmail), using smtp protocol with TLS(Transport Layer Security) and threading python library.</p>
 
 ### **Project Preview**
 <div  style="display: flex;justify-content: center;">
@@ -15,12 +13,13 @@ This app was develompted with goal of automatizate some email messages(google em
 
 ## Tools 🛠️
 - [Python](python.org)
-- smtp
-- python-decouple
-- customtkinter
-- tkinter
-- threading
-- os
+- Libraries
+    - smtp
+    - python-decouple
+    - customtkinter
+    - tkinter
+    - threading
+    - os
 
 ## How to run?
 ```bash
